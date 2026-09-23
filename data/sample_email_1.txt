@@ -1,0 +1,26 @@
+Subject: Interview Invitation – Machine Learning Intern
+
+Dear Tom,
+
+Thank you for applying for the Machine Learning Intern position at ABC Technologies.
+
+After carefully reviewing your resume and GitHub portfolio, we were impressed by your machine learning projects, particularly your work on classification models, Streamlit applications, and data preprocessing pipelines.
+
+We are pleased to invite you to the next stage of our recruitment process, which consists of a technical interview followed by a discussion with our engineering team.
+
+Your interview is scheduled for Monday, October 6, 2026, at 10:00 AM IST and will be conducted online via Google Meet. A meeting link will be shared with you approximately 30 minutes before the interview.
+
+During the interview, you may be asked to explain one of your machine learning projects, discuss your approach to feature engineering and model evaluation, and solve a few Python programming problems. No prior preparation beyond reviewing your own projects is required.
+
+Please reply to this email by Friday, October 3, 2026, to confirm your availability. If you are unavailable at the scheduled time, let us know your preferred availability and we will do our best to arrange another interview slot.
+
+If you have any questions regarding the interview process, feel free to contact us.
+
+We look forward to speaking with you and learning more about your experience.
+
+Best regards,
+
+Sarah Wilson
+Talent Acquisition Specialist
+ABC Technologies
+careers@abctechexample.com

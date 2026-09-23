@@ -1,0 +1,12 @@
+Subject: Interview Invitation
+
+Dear Tom,
+
+Thank you for applying for the Machine Learning Intern position at ABC Technologies.
+
+We were impressed with your profile and would like to invite you for an interview on Monday at 10:00 AM.
+
+Please reply to confirm your availability.
+
+Best Regards,
+HR Team
